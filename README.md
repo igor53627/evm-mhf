@@ -1,6 +1,6 @@
 # evm-mht
 
-EVM-native memory-hard function primitive extracted from TLOS.
+EVM-native memory-hard function primitive.
 
 ## Scope
 
