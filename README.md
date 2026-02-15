@@ -1,4 +1,4 @@
-# evm-mht
+# evm-mhf
 
 EVM-native memory-hard function primitive.
 
@@ -24,7 +24,7 @@ forge test
 ## Integration example
 
 ```solidity
-import {LibMHF} from "evm-mht/LibMHF.sol";
+import {LibMHF} from "evm-mhf/LibMHF.sol";
 
 bytes32 mhtOut = LibMHF.compute(input, salt);
 ```
